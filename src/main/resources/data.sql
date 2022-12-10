@@ -1,0 +1,5 @@
+-- INSERT INTO `worker` (emp_name, login, password, post, salary) VALUES
+--         ("ADMIN", "admin", "12345", "Administrator", "0");
+--
+-- INSERT INTO `role` (id, name) VALUES
+--         (1, 'ROLE_USER'), (2, 'ROLE_ADMIN');
